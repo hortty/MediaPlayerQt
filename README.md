@@ -1,5 +1,5 @@
 # MediaPlayerQt
-I built this media player using Qt framework and C++ language.
+I built this media player using Qt framework and C++ language. If it doesnt run as expected, you will have to download the K-Lite Codec Pack.
 
 When you open the program, you can select a video inside your hard disk, clicking on the button "Selecionar Arquivo".
 
